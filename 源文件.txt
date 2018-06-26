@@ -1,0 +1,23 @@
+#include<stdio.h>/*
+
+
+速度达到多多多多多多多多多多多多多多多多多多多多多多多
+*/
+
+/*
+
+
+速度达到多多多多多多多多多多多多多多多多多多多多多多多*/
+//ssssssss
+int b(){
+	printf("ssssssssssssssssssssssss");
+}
+int c=2;
+
+int main(){
+	b();
+	
+}
+         
+         
+ 
